@@ -9,7 +9,7 @@ using TestProject_Core.Models;
 
 namespace TestProject_Core.Controllers
 {
-    public class HomeController : Controller
+    public class HomeController : Controller     
     {
         private readonly ILogger<HomeController> _logger;
 
